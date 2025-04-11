@@ -19,6 +19,8 @@
 - [**Utility App**](https://github.com/qqqorus/UtilityApp): A Vending Machine created using Python for a school project.
 - [**Programming Exercises Portfolio**](https://github.com/qqqorus/ProgrammingExercisesPortfolio_Famador): A collection of exercises completed in Python.
 - [**Web Development Exercises**](https://github.com/DC-BSU-RAK/assignement-1-set-exercises-qqqorus): A collection of exercises developed in HTML, CSS, and Javascript.
+     <br><br>
+    [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=qqqorus&count_private=true&theme=tokyonight&showicons=true)]()
 
 ## Fun Facts
 
@@ -28,4 +30,4 @@
 
 🌐 LinkedIn: [Quishia Desiree Famador](www.linkedin.com/in/quishia-desiree-famador-643480330)
 
-![cat pixel](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com%2Fimage%2Fb11462c55a35764.png&f=1&nofb=1&ipt=df59ce86e389462794f61a1129e7f312d82b4c30ee5f03a707b33789511ece91)
+<!-- ![pixel cat](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fart.pixilart.com%2F279c04744561021.png&f=1&nofb=1&ipt=8511e430f20f41788d84dc3371601c58f46e20991957afbd9d680f18d8c039ca) -->
