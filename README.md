@@ -24,7 +24,10 @@ I'm currently leveling up my skills in Databases, Web Development, and Digital F
 
 ## 🌱 Fun Facts
 
-I enjoy writing, reading, and learning a new language. In my free time, I like to bring my ideas to life through coding.
+- I enjoy writing, reading, and learning a new language.
+- In my free time, I like to bring my ideas to life through coding.
+- I like cats (and dogs).
+- Looking for an opportunity to work in the industry! 💼
 
 ## 🌐 Connect with Me
 
