@@ -21,7 +21,7 @@ I'm currently leveling up my skills in Databases, Web Development, and Digital F
 
 - [**Utility App**](https://github.com/qqqorus/UtilityApp): A Vending Machine created using Python for a school project.
 - [**Programming Exercises Portfolio**](https://github.com/qqqorus/ProgrammingExercisesPortfolio_Famador): A collection of exercises completed in Python.
-- [**Web Development Exercises**](https://github.com/DC-BSU-RAK/assignement-1-set-exercises-qqqorus): A collection of exercises developed in HTML, CSS, and Javascript.
+- [**Web Development Exercises**](https://github.com/qqqorus/Web-Development-1): A collection of exercises developed in HTML, CSS, and Javascript.
      <br><br>
     [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=qqqorus&count_private=true&theme=tokyonight&showicons=true)]()
 <hr>
