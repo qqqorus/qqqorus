@@ -5,7 +5,7 @@
 
 ## 💡 About Me
 
-I'm currently leveling up my skills in Databases, Web Development, and Digital Forensics and loving every bit of it. When I'm not buried in books or code, you can find me learning a new language, and I'm always looking for new challenges and opportunities to grow. Feel free to reach out to me at kishassgbusiness@gmail.com or connect with me on LinkedIn.
+I'm currently leveling up my skills in Databases, Web Development, and Digital Forensics and loving every bit of it. When I'm not buried in books or code, you can find me learning a new language, and I'm always looking for new challenges and opportunities to grow. Feel free to reach out to me at q.d.famador@gmail.com or connect with me on LinkedIn.
 <hr>
 
 ## ⚙️ Skills
